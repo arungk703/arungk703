@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arungk703
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.Js
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me arungk703@gmail.com
 
